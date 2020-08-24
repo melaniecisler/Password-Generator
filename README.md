@@ -5,3 +5,5 @@ Description: In this project I created an application that generates a random pa
 
 
 Installation: Using chrome or a favorite browser copy link https://melaniecisler.github.io/Password-Generator/ 
+
+To Run: Make sure to click "generate password" button after your selection criteria is made. Click for each additional password or refresh to start over and change criteria. 
