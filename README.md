@@ -1,4 +1,5 @@
 ![](image/Homework3.PNG)
+![](image/Homework3.png)
 
 Project Title: Password Generator
 
